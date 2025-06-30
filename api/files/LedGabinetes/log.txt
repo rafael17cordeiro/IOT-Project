@@ -1,0 +1,9 @@
+2025/5/4 08:00;Disponivel
+2025/5/4 08:10;Disponivel
+2025/5/4 08:15;Disponivel
+2025/5/4 08:30;Disponivel
+2025/5/4 08:45;Disponivel
+2025/5/4 09:00;Disponivel
+2025/5/4 09:30;Indisponivel
+2025/5/4 09:45;Disponivel
+2025/5/4 10:00;Disponivel

@@ -1,0 +1,13 @@
+2025/5/4 08:15;Ligado
+2025/5/4 08:30;Ligado
+2025/5/4 08:45;Ligado
+2025/5/4 09:00;Desligado
+2025/5/4 09:15;Desligado
+2025/5/4 09:30;Desligado
+2025/5/4 09:45;Desligado
+2025/5/4 10:00;Ligado
+2025/5/4 10:10;Ligado
+2025/5/4 10:30;Ligado
+2025/5/4 10:45;Ligado
+2025/5/4 11:00;Desligado
+2025/5/4 11:00;Desligado
