@@ -33,7 +33,7 @@ This project was developed for the **Internet Technologies** course at ESTG / IP
 - Webcam photo capture
 - Dashboard with graphs (admin only)
 
-## 🛠️ Tools
+##  Tools
 
 - Python, C++, PHP  
 - Libraries: `gpiozero`, `RPi.GPIO`, `requests`, `threading`, `cv2`  
