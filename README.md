@@ -2,14 +2,14 @@
 
 This project was developed for the **Internet Technologies** course at ESTG / IPLeiria. It aims to implement a smart monitoring and control system for school environments using IoT technologies.
 
-## 🔍 Project Overview
+##  Project Overview
 
 - **Monitors** room temperature and **detects** motion
 - **Controls** a servo motor (simulated A/C)
 - **Displays** real-time and historical data on a web dashboard
 - **Captures** images when motion is detected
 
-## 🧱 Architecture
+##  Architecture
 
 - **Arduino 1010 WiFi**  
   - Sends temperature (DHT11) via JSON (HTTP POST)  
@@ -25,7 +25,7 @@ This project was developed for the **Internet Technologies** course at ESTG / IP
   - API (PHP) + dynamic dashboard  
   - Admin and user access levels
 
-## ✅ Features
+##  Features
 
 - Real-time temperature and motion data
 - LED indicators for people entering/leaving
@@ -39,7 +39,7 @@ This project was developed for the **Internet Technologies** course at ESTG / IP
 - Libraries: `gpiozero`, `RPi.GPIO`, `requests`, `threading`, `cv2`  
 - Visual Studio Code, XAMPP, PuTTY
 
-## 👨‍💻 Authors
+##  Authors
 
 Rafael dos Santos Cordeiro  
 Guilherme Seco Filipe Quaresma Pimentel  
