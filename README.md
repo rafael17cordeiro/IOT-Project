@@ -1,4 +1,4 @@
-# 📡 Smart School – IoT Project
+#  Smart School – IoT Project
 
 This project was developed for the **Internet Technologies** course at ESTG / IPLeiria. It aims to implement a smart monitoring and control system for school environments using IoT technologies.
 
